@@ -1,0 +1,24 @@
+{
+  "name": "atp-react-starter",
+  "version": "1.0.0",
+  "description": "A React starter kit with usefull configuration",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erfanatp/atp-react-starter.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Erfan Attarzadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erfanatp/atp-react-starter/issues"
+  },
+  "homepage": "https://github.com/erfanatp/atp-react-starter#readme"
+}
